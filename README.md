@@ -27,15 +27,15 @@
 
 2. **Создать и активировать виртуальное окружение (рекомендовано):**
 
-```bash
-python -m venv venv
-source venv/bin/activate  # Для Linux/macOS
-venv\Scripts\activate  # Для Windows
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # Для Linux/macOS
+   venv\Scripts\activate  # Для Windows
 
 3. **Установить зависимости:**
 
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 4. **Запустить приложение:**
 Приложение в создано Jupyter Notebook.
