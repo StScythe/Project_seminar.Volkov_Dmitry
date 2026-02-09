@@ -13,9 +13,5 @@
 - Содержит ячейки для калибровки по фотофайлу и анализировать видеофайл.
 
 ## Демонстрация
-Демонстрация в видеофайле Programm.mp4
-<video src="assets/Programm.mp4" width="800" height="450" controls>
-  Скачать видео: [Programm.mp4](assets/Programm.mp4)
-</video>
-
-![](https://github.com/StScythe/Project_seminar.Volkov_Dmitry/blob/main/MVP_notebook/1.jpg)
+Демонстрация в видеофайле Programm.mp4, вывести не получается.
+![](https://github.com/StScythe/Project_seminar.Volkov_Dmitry/blob/main/2.jpg)
