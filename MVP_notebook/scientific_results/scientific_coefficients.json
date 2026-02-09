@@ -1,0 +1,44 @@
+{
+  "coefficients": {
+    "K_mar": {
+      "value": 22.35943654121629,
+      "yawn_value": 0.6707830962364887,
+      "no_yawn_median": 0.03,
+      "metric_used": "25_percentile",
+      "mvp_formula": "Порог_водителя = mar_калибровки × 22.36"
+    },
+    "K_nose_chin_distance": {
+      "value": 1.277224987024036,
+      "yawn_value": 1.0972238651180657,
+      "no_yawn_median": 0.8590685871833927,
+      "metric_used": "median",
+      "mvp_formula": "Порог_водителя = nose_chin_distance_калибровки × 1.28"
+    }
+  },
+  "statistical_results": {
+    "mar": {
+      "p_value": 1.3365367123982109e-165,
+      "is_significant": 1,
+      "effect_size": -0.9751837224416338,
+      "mean_yawn": 0.7731016054486081,
+      "mean_no_yawn": 0.030477560869182366,
+      "median_yawn": 0.7930944987418178,
+      "median_no_yawn": 0.03,
+      "n_yawn": 415,
+      "n_no_yawn": 482
+    },
+    "nose_chin_distance": {
+      "p_value": 2.6004149898372367e-99,
+      "is_significant": 1,
+      "effect_size": -0.8182772584112383,
+      "mean_yawn": 1.0904681723593397,
+      "mean_no_yawn": 0.8532219901589394,
+      "median_yawn": 1.0972238651180657,
+      "median_no_yawn": 0.8590685871833927,
+      "n_yawn": 415,
+      "n_no_yawn": 482
+    }
+  },
+  "timestamp": "2026-02-08T23:37:31.680215",
+  "description": "Коэффициенты для системы мониторинга зевка"
+}

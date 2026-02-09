@@ -1,0 +1,17 @@
+{
+  "model_name": "SVM",
+  "model_type": "SVC",
+  "test_metrics": {
+    "accuracy": 0.9931972789115646,
+    "precision": 1.0,
+    "recall": 0.9861111111111112,
+    "f1": 0.993006993006993,
+    "roc_auc": 1.0
+  },
+  "features_used": [
+    "mar",
+    "nose_chin_distance"
+  ],
+  "timestamp": "2026-02-08T23:38:40.556739",
+  "requirements_met": true
+}
