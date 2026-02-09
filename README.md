@@ -15,7 +15,7 @@
 ## Демонстрация
 Демонстрация в видеофайле Programm.mp4, вывести не получается.
 
-![](https://github.com/StScythe/Project_seminar.Volkov_Dmitry/blob/main/2.jpg)
+![](2.jpg)
 
 
 
