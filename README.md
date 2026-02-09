@@ -15,3 +15,34 @@
 ## Демонстрация
 Демонстрация в видеофайле Programm.mp4, вывести не получается.
 ![](https://github.com/StScythe/Project_seminar.Volkov_Dmitry/blob/main/2.jpg)
+
+## Как запустить
+
+1. **Клонировать репозиторий:**
+
+   ```bash
+   git clone https://github.com/StScythe/Project_seminar.Volkov_Dmitry.git
+   cd MVP_notebook
+
+2. **Создать и активировать виртуальное окружение (рекомендовано):**
+
+python -m venv venv
+source venv/bin/activate  # Для Linux/macOS
+venv\Scripts\activate  # Для Windows
+
+3. **Установить зависимости:**
+
+pip install -r requirements.txt
+
+4. **Запустить приложение:**
+Приложение в создано Jupyter Notebook.
+Тестировалось в VSCode, версия Python 3.11.9.
+Особое внимание к версии mediapipe<=0.10.10
+
+Выполнить все ячейки, работать с ячейкой "Главная функция"
+![](https://github.com/StScythe/Project_seminar.Volkov_Dmitry/blob/main/3.jpg)
+
+## Лицензия Apache 2.0 распространяется на фреймворк MediaPipe.
+
+## Отчет и презентация находятся на этом же репозитории
+
