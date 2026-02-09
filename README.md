@@ -15,7 +15,8 @@
 ## Демонстрация
 Демонстрация в видеофайле Programm.mp4, вывести не получается.
 
-![](https://github.com/StScythe/Project_seminar.Volkov_Dmitry/tree/main/2.jpg)
+![](https://github.com/StScythe/Project_seminar.Volkov_Dmitry/blob/main/2.jpg)
+
 
 
 ## Как запустить
@@ -42,6 +43,7 @@ pip install -r requirements.txt
 Особое внимание к версии mediapipe<=0.10.10
 
 Выполнить все ячейки, работать с ячейкой "Главная функция"
+
 ![](https://github.com/StScythe/Project_seminar.Volkov_Dmitry/blob/main/3.jpg)
 
 ## Лицензия Apache 2.0 распространяется на фреймворк MediaPipe.
