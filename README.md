@@ -13,5 +13,6 @@
 - Содержит ячейки для калибровки по фотофайлу и анализировать видеофайл.
 
 ## Демонстрация
-![](https://github.com/StScythe/Project_seminar.Volkov_Dmitry/blob/main/Programm.mp4)
+Демонстрация в видеофайле Programm.mp4
+[Видео-демонстрация](https://github.com/StScythe/Project_seminar.Volkov_Dmitry/blob/main/video.mp4)
 ![](https://github.com/StScythe/Project_seminar.Volkov_Dmitry/blob/main/MVP_notebook/1.jpg)
