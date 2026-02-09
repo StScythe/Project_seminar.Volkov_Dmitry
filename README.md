@@ -15,7 +15,7 @@
 ## Демонстрация
 Демонстрация в видеофайле Programm.mp4, вывести не получается.
 
-![](2.jpg)
+![](2.JPG)
 
 
 
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 Выполнить все ячейки, работать с ячейкой "Главная функция"
 
-![](https://github.com/StScythe/Project_seminar.Volkov_Dmitry/blob/main/3.jpg)
+![](https://github.com/StScythe/Project_seminar.Volkov_Dmitry/blob/main/3.JPG)
 
 ## Лицензия Apache 2.0 распространяется на фреймворк MediaPipe.
 
