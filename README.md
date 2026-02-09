@@ -27,17 +27,19 @@
 
 2. **Создать и активировать виртуальное окружение (рекомендовано):**
 
+```bash
 python -m venv venv
 source venv/bin/activate  # Для Linux/macOS
 venv\Scripts\activate  # Для Windows
 
 3. **Установить зависимости:**
 
+```bash
 pip install -r requirements.txt
 
 4. **Запустить приложение:**
 Приложение в создано Jupyter Notebook.
-Тестировалось в VSCode, версия Python 3.11.9.
+Тестировалось в VSCode, версия Python 3.11.9
 Особое внимание к версии mediapipe<=0.10.10
 
 Выполнить все ячейки, работать с ячейкой "Главная функция"
