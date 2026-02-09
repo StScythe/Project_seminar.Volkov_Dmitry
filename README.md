@@ -14,7 +14,8 @@
 
 ## Демонстрация
 Демонстрация в видеофайле Programm.mp4
-<video width="640" height="480" controls>
-  <source src="Programm.mp4" type="Programm/mp4">
+<video src="assets/Programm.mp4" width="800" height="450" controls>
+  Скачать видео: [Programm.mp4](assets/Programm.mp4)
 </video>
+
 ![](https://github.com/StScythe/Project_seminar.Volkov_Dmitry/blob/main/MVP_notebook/1.jpg)
